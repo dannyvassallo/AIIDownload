@@ -1,8 +1,14 @@
 //body//
 
-// body{
-//   background-color: black;
-//   background-image: url(https://s3.amazonaws.com/myfangate.com/oceansatealaska/downloadpage/testBG.jpg);
-//   background-repeat: no-repeat;
-//   background-position: center 0
-// }
+body{
+  background-color: black;
+  background-image: url(https://s3.amazonaws.com/myfangate.com/oceansatealaska/downloadpage/testBG.jpg);
+  background-repeat: no-repeat;
+  background-position: center 0
+}
+
+.error {
+    outline:none;
+    border-color: red;
+    box-shadow:0 0 10px red;
+}
