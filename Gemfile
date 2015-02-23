@@ -15,3 +15,5 @@ gem 'middleman-livereload'
 #bootstrap/jquery
 gem "bootstrap-sass"
 gem "jquery-middleman"
+
+gem "rack"
