@@ -1,6 +1,8 @@
 .ss-form{
   margin: 320px 0 20px 0;
   text-align: center;
+  z-index: 9999;
+  position: relative;
   .form-control{
     max-width: 192px;
     margin: 0 auto;

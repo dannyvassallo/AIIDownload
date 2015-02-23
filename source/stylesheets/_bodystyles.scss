@@ -2,9 +2,18 @@
 
 body{
   background-color: black;
+}
+
+.image{
   background-image: url(https://s3.amazonaws.com/myfangate.com/oceansatealaska/downloadpage/background.jpg);
   background-repeat: no-repeat;
-  background-position: center 0
+  background-position: center 0;
+  width: 1024px;
+  height: 768px;
+  position: absolute;
+  top: 0;
+  left:50%;
+  margin-left: -512px;
 }
 
 .error {
