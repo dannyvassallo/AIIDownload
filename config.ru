@@ -2,6 +2,7 @@ require 'middleman-core/load_paths'
 ::Middleman.setup_load_paths
 
 require 'middleman-core'
+require 'rack'
 
 require 'fileutils'
 FileUtils.mkdir('log') unless File.exist?('log')
