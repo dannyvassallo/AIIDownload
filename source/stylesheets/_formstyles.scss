@@ -1,6 +1,10 @@
 .ss-form{
-  margin: 20px 0 20px 0;
+  margin: 320px 0 20px 0;
   text-align: center;
+  .form-control{
+    max-width: 192px;
+    margin: 0 auto;
+  }
   #navigation-table{
     margin: 0 auto;
   }
