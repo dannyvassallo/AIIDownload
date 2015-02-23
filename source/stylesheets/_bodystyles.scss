@@ -4,6 +4,11 @@ body{
   background-color: black;
 }
 
+#page{
+  margin: 0 auto;
+  max-width: 1170px;
+}
+
 .image{
   background-image: url(https://s3.amazonaws.com/myfangate.com/oceansatealaska/downloadpage/background.jpg);
   background-repeat: no-repeat;

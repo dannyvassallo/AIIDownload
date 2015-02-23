@@ -30,4 +30,3 @@ $(function(){
         $(this).removeClass('error');
     });
 });
-
