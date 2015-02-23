@@ -18,3 +18,7 @@ gem "jquery-middleman"
 
 #rack
 gem 'rack-contrib'
+
+
+gem 'puma',      '~> 2.7'
+gem 'rake',      '~> 10.1'
