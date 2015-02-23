@@ -39,3 +39,4 @@ run lambda{ |env|
   else
     [ 404, { 'Content-Type'  => 'text/html' }, ['404 - page not found'] ]
   end
+}
